@@ -1,5 +1,12 @@
 # Shopping Cart 
 
+##UPDATE (10-07-2016)
+[FoodKart v0.3](https://github.com/arjunsk/ionic-firebase-shopping-cart) is released. Read the complete [tutorial series here](http://www.arjunsk.com/tag/firebase/). 
+
+![FoodKart V0.3 ](https://raw.githubusercontent.com/arjunsk/ionic-firebase-shopping-cart/master/fk-latest.png)
+
+
+
 FoodKart v0.2
 
 ![Food Cart ](https://raw.githubusercontent.com/arjunsk/shopping-cart/master/screenshots/screen.png)
